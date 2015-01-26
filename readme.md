@@ -13,7 +13,7 @@ The goals and objective of Entercom Digital Platform are:
  
 **Acquia Cloud Site Factory** –
 
-**Phase2 Technologies** – is a professional services company that specializes in web strategy, design and development – they build Drupal platforms for large organizations.  Examples include media sites for Time Inc. NBC, MSNBC; government sites such as US.gov, Sports site like Pac 12.
+**Phase2 Technologies** – is a professional services company that specializes in web strategy, design and development – they build Drupal platforms for large organizations.  Examples include media sites for Time Inc. NBC, MSNBC; government sites such as [US.gov](http://www.usa.gov/), Sports site like [Pac 12](http://pac-12.com/).
 
 
 ###Project Management Terms###
@@ -28,11 +28,11 @@ The goals and objective of Entercom Digital Platform are:
 
 **Content Management System** – (CMS) - In the context of a Web site. a collection of tools designed to allow the creation, modification, organization, search, retrieval and removal of information.
 
-**Open Source** – Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the Open Source Definition. Two examples of open source are WordPress and Drupal. 
+**Open Source** – Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under [licenses](http://opensource.org/licenses) that comply with the [Open Source Definition](http://opensource.org/definition). Two examples of open source are WordPress and Drupal. 
 
 **Proprietary CMS/Software** – software that is owned by an individual or a company (usually the one that developed it). There are almost always major restrictions on its use, and its source code is almost always kept secret. Entercom’s previous CMS (Vortal) was proprietary software built by Intertech Media.
  
-**Responsive Design** – Being “responsive” means that the page design automatically responds to its device or browser window, providing a smooth user experience regardless of screen size - from desktop, tablet to phone and all the permutations in-between. See this GIF  - In under a minute, you'll get a simple definition of responsive design.
+**Responsive Design** – Being “responsive” means that the page design automatically responds to its device or browser window, providing a smooth user experience regardless of screen size - from desktop, tablet to phone and all the permutations in-between. See this [GIF](http://cdn2.hubspot.net/hub/53/file-2249252882-gif/00-Blog-Related_Images/Definition-of-Responsive-Design.gif?t=1419817318883)  - In under a minute, you'll get a simple definition of responsive design.
 
 ###Drupal###
 
@@ -47,9 +47,9 @@ Example sites built on Drupal include: Tesla, NFL, Warner Music, Sports Illustra
 
 **Block** - Blocks are a small unit of repetitive pieces of content that get positioned into a region (left sidebar, header, footer, etc.) of a page.  For example, a block containing  company contact information could be added to the footer of all pages.
 
-**Taxonomies** – In Drupal, "Taxonomy" is the name of a powerful core module that gives your sites use of terms. In Drupal, these terms are gathered within vocabularies which the Taxonomy module allows you to create, manage and apply.
+**Taxonomies** – In Drupal, "Taxonomy" is the name of a powerful core module that gives your sites use of terms. In Drupal, these [terms](https://www.drupal.org/glossary#term) are gathered within [vocabularies](https://www.drupal.org/glossary#vocabulary) which the [Taxonomy module](https://www.drupal.org/documentation/modules/taxonomy) allows you to create, manage and apply.
  
-**Themes** – A file or collection of files (PHP, INFO, CSS, JPG, GIF, PNG), which together determine the look and feel of a site. A theme contains elements such as the header, icons, block layout, etc. Drupal modules define themeable functions which can be overridden by the theme file. There are additional themes available in the themes section of downloads.
+**Themes** – A file or collection of files (PHP, INFO, CSS, JPG, GIF, PNG), which together determine the look and feel of a site. A theme contains elements such as the header, icons, block layout, etc. Drupal modules define [themeable functions](http://api.drupal.org/api/group/themeable) which can be overridden by the theme file. There are additional themes available in the [themes section of downloads](https://www.drupal.org/project/Themes).
  
 **Widget** - An application, or a component of an interface, that enables a user to perform a function or access a service.
  
