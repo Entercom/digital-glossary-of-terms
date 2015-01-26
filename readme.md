@@ -21,6 +21,7 @@ The goals and objective of Entercom Digital Platform are:
 **Agile** - 
 
 **Sprint**- A meeting where people meet gather at a specific time to discuss and work on software development tasks. For the purposes of Entercom’s work with Phase2 - our “sprints” are a two-week period of work, bounded by a planning meeting, in which work for the sprint is scoped and committed to, and a review meeting, in which the work completed during the sprint is reviewed.
+
 **API** - An application programming interface (API) is a particular set of rules (“code”) and specifications that software programs can follow to communicate with each other.
  
 ###General Terms###
