@@ -13,7 +13,7 @@ The goals and objective of Entercom Digital Platform are:
  
 **Acquia Cloud Site Factory** –
 
-**Phase2 Technologies** – is a professional services company that specializes in web strategy, design and development – they build Drupal platforms for large organizations.  Examples include media sites for Time Inc. NBC, MSNBC; government sites such as [US.gov](http://www.usa.gov/), Sports site like [Pac 12](http://pac-12.com/).
+**Phase2 Technologies** – is a professional services company that specializes in web strategy, design and development – they build Drupal platforms for large organizations.  Examples include media sites for Time Inc. NBC, MSNBC; government sites such as [US Gov](http://www.usa.gov/), Sports site like [Pac 12](http://pac-12.com/).
 
 
 ###Project Management Terms###
